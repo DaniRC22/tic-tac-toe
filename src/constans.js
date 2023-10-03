@@ -1,6 +1,6 @@
 export const TURNS = {
     X:'x',
-    O: '0'
+    O: 'o'
   }
   
   
